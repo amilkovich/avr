@@ -1,0 +1,12 @@
+create a real Makefile system and possibly refactor
+move bcm to lib
+twi slave
+spi slave
+improve usart.h #defines for different chips and carry this change elsewhere
+hd44780 only allows one lcd currently, create a struct perhaps
+
+in progress:
+	sd card stuff
+	ir rx/tx
+	ws2811 led
+	minimal avr audio stuff
